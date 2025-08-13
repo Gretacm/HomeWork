@@ -59,3 +59,7 @@ TC_1.1. Positive create new todo
     Expected result: new task appear in the list below
     Actual result:
     Status: Pass/Fail
+
+    TC_1.2. 
+
+    tikrinu
