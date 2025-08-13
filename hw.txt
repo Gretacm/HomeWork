@@ -23,3 +23,39 @@ severity level
 
 Console:
 Html:
+
+
+HW2. identifikuoti scenarijus: 
+
+01. add list
+02.all
+03.active
+04.completed
+05.Clear
+06.edit? 
+07.arrow?
+08.delete from the list
+
+TS01 Create new todo
+TS02 Edit todo
+TS03 Change todo status
+TS04 Change all todo status
+TS05 Count active todo
+TS06 Filter
+TS07 Delete one todo
+TS08 Delete all completed todo
+TS09 Cashing data locally
+TS10 UI/UX
+
+HW3.
+
+TC_1.1. Positive create new todo
+
+    Pre-requisite: open app https://todolist.james.am/#/
+    1. Input task name: go to grocery store
+    2. Press 'Enter' key to save
+    3. Observe result
+    
+    Expected result: new task appear in the list below
+    Actual result:
+    Status: Pass/Fail
